@@ -1,0 +1,1 @@
+docker build -t modulsoft/carguard/device_integrator_panel:1.0 -f Dockerfile .
